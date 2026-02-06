@@ -2,7 +2,7 @@
 
 # Bad Apple 终端 ASCII 播放器
 
-一个在终端里播放 Bad Apple 的 ASCII 动画播放器，自定义分辨率、配置文件微调
+一个在终端里播放 Bad Apple 的 ASCII 动画播放器，支持自定义分辨率、配置文件微调等
 
 ## 📦 环境要求
 
@@ -17,8 +17,8 @@
 ### 1. 克隆/下载项目
 
 ```bash
-git clone https://github.com/ThwShy-awa/bad-apple-terminal.git
-cd BadApple-Terminal-player
+git clone https://github.com/ThwShy-awa/BadApple-Terminal-Player-BadApple.git
+cd BadApple-Terminal-Player-BadApple
 ```
 
 ### 2. 依赖说明
@@ -106,7 +106,7 @@ python ba_run_audio.py <你的视频路径.mp4> 100 40
 ## 📁 项目结构
 
 ```bash
-BadApple-terminal-player/          # 项目根目录
+BadApple-Terminal-Player-BadApple/          # 项目根目录
 ├── ba_run.py                # 主程序（核心播放逻辑）
 ├── config.json              # 配置文件（音画偏移、分辨率等）
 ├── BadApple.mp4             # 视频文件（可替换）
