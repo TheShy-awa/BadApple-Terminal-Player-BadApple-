@@ -17,8 +17,8 @@
 ### 1. 克隆/下载项目
 
 ```bash
-git clone https://github.com/你的用户名/bad-apple-terminal.git
-cd bad-apple-terminal
+git clone https://github.com/ThwShy-awa/bad-apple-terminal.git
+cd BadApple-Terminal-player
 ```
 
 ### 2. 依赖说明
