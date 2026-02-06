@@ -1,0 +1,5 @@
+{
+  "play_start_offset": 0.4,
+  "pipe_ready_sleep": 0.05,
+  "status_refresh_interval": 0.5
+}
